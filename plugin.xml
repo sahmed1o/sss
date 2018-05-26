@@ -9,8 +9,8 @@
     <author>Sahel A.</author>	
     <license>MIT</license>
     <keywords>cordova,plugin,samsung</keywords>
-    <repo></repo>
-    <issue></issue>	
+    <repo>https://github.com/sasoftwarerl/sss</repo>
+    <issue>https://github.com/sasoftwarerl/sss/issues</issue>	
 	<engines>
 	    <engine name="cordova" version=">=3.0.0" />
 	</engines>
